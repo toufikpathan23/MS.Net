@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CompanyApp/1.0.0": {
+        "dependencies": {
+          "DelegateApp": "1.0.0",
+          "HrManager": "1.0.0"
+        },
+        "runtime": {
+          "CompanyApp.dll": {}
+        }
+      },
+      "DelegateApp/1.0.0": {
+        "runtime": {
+          "DelegateApp.dll": {}
+        }
+      },
+      "HrManager/1.0.0": {
+        "dependencies": {
+          "DelegateApp": "1.0.0"
+        },
+        "runtime": {
+          "HrManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DelegateApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HrManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

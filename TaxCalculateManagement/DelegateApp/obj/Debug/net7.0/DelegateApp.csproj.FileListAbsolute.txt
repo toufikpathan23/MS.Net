@@ -1,0 +1,12 @@
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.csproj.AssemblyReference.cache
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.AssemblyInfoInputs.cache
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.AssemblyInfo.cs
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.csproj.CoreCompileInputs.cache
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\bin\Debug\net7.0\DelegateApp.deps.json
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\bin\Debug\net7.0\DelegateApp.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\bin\Debug\net7.0\DelegateApp.pdb
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\refint\DelegateApp.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\DelegateApp.pdb
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\DelegateApp\obj\Debug\net7.0\ref\DelegateApp.dll

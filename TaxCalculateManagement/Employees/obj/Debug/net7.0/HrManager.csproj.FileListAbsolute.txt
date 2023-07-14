@@ -1,0 +1,15 @@
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.csproj.AssemblyReference.cache
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.AssemblyInfoInputs.cache
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.AssemblyInfo.cs
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.csproj.CoreCompileInputs.cache
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\bin\Debug\net7.0\HrManager.deps.json
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\bin\Debug\net7.0\HrManager.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\bin\Debug\net7.0\HrManager.pdb
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\bin\Debug\net7.0\DelegateApp.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\bin\Debug\net7.0\DelegateApp.pdb
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.csproj.CopyComplete
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\refint\HrManager.dll
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\HrManager.pdb
+D:\C-DAC\.Net\Day_5\TaxCalculateManagement\Employees\obj\Debug\net7.0\ref\HrManager.dll
